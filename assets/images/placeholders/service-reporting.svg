@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 640" role="img">
+  <title>Temporary placeholder</title>
+  
+  <defs>
+    <linearGradient id="desk" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#4a4f55"/>
+      <stop offset="1" stop-color="#2c3136"/>
+    </linearGradient>
+    <linearGradient id="screen" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1b1f24"/>
+      <stop offset="1" stop-color="#0e1114"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="640" fill="url(#desk)"/>
+  <rect x="0" y="470" width="800" height="170" fill="#3a4046"/>
+  <g>
+    <path d="M150 430 L250 250 L560 230 L470 420 Z" fill="#c8cdd2"/>
+    <path d="M168 412 L258 262 L540 246 L458 404 Z" fill="url(#screen)"/>
+    <polyline points="300,360 340,340 380,348 420,300 460,312 500,250" fill="none" stroke="#d7dde2" stroke-width="3"/>
+    <path d="M150 430 L470 420 L520 450 L190 464 Z" fill="#9aa1a8"/>
+    <path d="M190 464 L520 450 L560 470 L210 488 Z" fill="#7d858c"/>
+  </g>
+
+</svg>

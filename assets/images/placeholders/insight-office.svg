@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 700" role="img">
+  <title>Temporary placeholder</title>
+  
+  <defs>
+    <linearGradient id="room" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#3a342e"/>
+      <stop offset="1" stop-color="#1c1916"/>
+    </linearGradient>
+    <radialGradient id="lamp" cx="0.72" cy="0.28" r="0.45">
+      <stop offset="0" stop-color="#f3e2c4" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#f3e2c4" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1000" height="700" fill="url(#room)"/>
+  <rect width="1000" height="700" fill="url(#lamp)"/>
+  <polygon points="0,430 1000,390 1000,700 0,700" fill="#4a4038"/>
+  <rect x="80" y="250" width="420" height="250" rx="6" fill="#2a2622"/>
+  <rect x="100" y="268" width="380" height="200" fill="#141210"/>
+  <polyline points="150,400 210,370 270,390 340,320 410,340" fill="none" stroke="#d9d3cb" stroke-width="3"/>
+  <rect x="620" y="180" width="18" height="280" fill="#cbbfa8"/>
+  <ellipse cx="629" cy="170" rx="70" ry="18" fill="#efe6d6" opacity="0.8"/>
+  <rect x="180" y="500" width="70" height="28" rx="3" fill="#6b6258"/>
+
+</svg>

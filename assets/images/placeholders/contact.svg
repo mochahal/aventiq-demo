@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800" role="img">
+  <title>Temporary placeholder</title>
+  
+  <rect width="1200" height="800" fill="#f3f3f3"/>
+  <polygon points="0,0 760,0 980,800 180,800" fill="#e7e7e7"/>
+  <polygon points="760,0 1200,0 1200,800 980,800" fill="#dedede"/>
+  <g stroke="#d0d0d0" stroke-width="2" fill="none">
+    <path d="M80 60 L700 40"/>
+    <path d="M40 180 L760 140"/>
+    <path d="M20 320 L820 260"/>
+    <path d="M0 470 L900 390"/>
+    <path d="M80 640 L980 520"/>
+    <path d="M220 0 L40 800"/>
+    <path d="M460 0 L300 800"/>
+    <path d="M700 0 L560 800"/>
+    <path d="M940 0 L860 800"/>
+  </g>
+  <polygon points="820,120 1040,80 1080,260 850,300" fill="#f7f7f7" opacity="0.65"/>
+
+</svg>

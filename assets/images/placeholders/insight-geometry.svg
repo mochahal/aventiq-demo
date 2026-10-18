@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 700" role="img">
+  <title>Temporary placeholder</title>
+  
+  <rect width="1000" height="700" fill="#e6eaee"/>
+  <polygon points="0,0 620,0 540,700 0,700" fill="#f7f8f9"/>
+  <polygon points="620,0 1000,80 1000,700 540,700" fill="#d5dbe1"/>
+  <g stroke="#c5ced6" stroke-width="2" fill="none">
+    <path d="M80 40 H560"/>
+    <path d="M80 120 H540"/>
+    <path d="M80 200 H520"/>
+    <path d="M80 280 H500"/>
+    <path d="M80 360 H480"/>
+    <path d="M80 440 H460"/>
+    <path d="M80 520 H440"/>
+    <path d="M80 600 H420"/>
+    <path d="M160 0 V700"/>
+    <path d="M280 0 V700"/>
+    <path d="M400 0 V700"/>
+  </g>
+  <polygon points="540,0 620,0 540,700" fill="#fbfbfb" opacity="0.7"/>
+
+</svg>

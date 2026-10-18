@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 640" role="img">
+  <title>Temporary placeholder</title>
+  
+  <rect width="800" height="640" fill="#d9d9d9"/>
+  <rect x="70" y="80" width="560" height="480" rx="2" fill="#f3f3f3"/>
+  <g stroke="#c4c4c4" stroke-width="2">
+    <line x1="120" y1="150" x2="520" y2="150"/>
+    <line x1="120" y1="190" x2="560" y2="190"/>
+    <line x1="120" y1="230" x2="500" y2="230"/>
+    <line x1="120" y1="270" x2="540" y2="270"/>
+    <line x1="120" y1="310" x2="470" y2="310"/>
+    <line x1="120" y1="350" x2="550" y2="350"/>
+    <line x1="120" y1="390" x2="430" y2="390"/>
+    <line x1="120" y1="430" x2="510" y2="430"/>
+  </g>
+  <g transform="rotate(-38 520 300)">
+    <rect x="430" y="250" width="250" height="22" rx="4" fill="#2a2a2a"/>
+    <polygon points="680,250 720,261 680,272" fill="#6e6e6e"/>
+    <rect x="430" y="250" width="46" height="22" fill="#111"/>
+    <rect x="454" y="256" width="10" height="10" fill="#cfcfcf"/>
+  </g>
+  <rect x="70" y="80" width="560" height="480" fill="none" stroke="#cfcfcf"/>
+
+</svg>
